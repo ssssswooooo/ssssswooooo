@@ -92,8 +92,11 @@ Go 言語を用いた IoT デバイス向けモジュール開発、低レイテ
 
 ## お問い合わせ
 
-🚧 お問い合わせフォームは現在準備中です 🚧
-<!--
-新規案件のご相談、お仕事のご依頼は Wantedly からお気軽にご連絡ください。
+案件のご相談、お仕事のご依頼は 下記フォーム からお気軽にご連絡ください。
 
-[Wantedly で詳細を見る](https://www.wantedly.com/id/xxxxx) <!-- ここに実際のリンクを入れてください -->
+🔗 [お問い合わせフォームを開く](https://forms.gle/SMEGT3cTQXSMvPMa6)
+<div align="center">
+  <a href="https://forms.gle/SMEGT3cTQXSMvPMa6">
+    <img src="https://img.shields.io/badge/お問い合わせ-Google_Form-blue?style=for-the-badge&logo=google" alt="お問い合わせフォーム" />
+  </a>
+</div>
